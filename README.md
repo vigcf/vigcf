@@ -1,9 +1,8 @@
-### <h2>
-  Olá 👋</h2>
+ ### Olá 👋
 
   Sou a Vitória Alric, moro em São Paulo e estou estudando para me tornar uma Desenvolvedora Full Stack! 🚀
   
-  Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e estou desenvolvendo em equipe uma rede social utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
+  Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e estou desenvolvendo uma rede social  em equipe utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
 <p>
 <h3> Você pode me encontrar aqui 🌏 </h3>
 <p/>

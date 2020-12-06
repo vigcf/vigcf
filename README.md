@@ -2,7 +2,7 @@
 
   Sou a Vitória Alric, moro em São Paulo e estou estudando para me tornar uma Desenvolvedora Full Stack! 🚀
   
-  Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil] (https://brazil.generation.org)
+  Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org)
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vit%c3%b3ria-alric-3886001b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vit%c3%b3ria-alric-3886001b9/" height="30" width="40" /></a>

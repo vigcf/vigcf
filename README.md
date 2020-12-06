@@ -7,7 +7,7 @@
 <h3> Você pode me encontrar aqui 🌏 </h3>
 <p/>
 <p align="left">
-<a href="www.linkedin.com/in/vitória-alric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vit%c3%b3ria-alric-3886001b9/" height="30" width="40" /></a>
+<a href=www.linkedin.com/in/vitória-alric11953025442" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vit%c3%b3ria-alric-3886001b9/" height="30" width="40" /></a>
 <a href="https://instagram.com/viih_alric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="viih_alric" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=5511953025442&text=Ol%C3%A1%2C%20Vit%C3%B3ria%20Alric!%20 " title="Acesse de seu smartphone para enviar por WhatsApp"><b>WhatsApp</a></b>
 </p>

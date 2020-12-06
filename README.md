@@ -1,13 +1,19 @@
-### Olá 👋
+### <h2>
+  Olá 👋</h2>
 
   Sou a Vitória Alric, moro em São Paulo e estou estudando para me tornar uma Desenvolvedora Full Stack! 🚀
   
-  Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org)
-
+  Atualmente estou participando de um Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) e estou desenvolvendo em equipe uma rede social utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
+<p>
+<h3> Você pode me encontrar aqui 🌏 </h3>
+<p/>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vit%c3%b3ria-alric-3886001b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vit%c3%b3ria-alric-3886001b9/" height="30" width="40" /></a>
+<a href="https://instagram.com/viih_alric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="viih_alric" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=5511953025442&text=Ol%C3%A1%2C%20Vit%C3%B3ria%20Alric!%20 " title="Acesse de seu smartphone para enviar por WhatsApp"><b>WhatsApp</a></b>
 </p>
 
+  
 <!--
 **VitoriaAlric/VitoriaAlric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

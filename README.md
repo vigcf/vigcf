@@ -6,12 +6,11 @@
 <p>
 <h3> Você pode me encontrar aqui 🌏 </h3>
 <p/>
-<a href="https://linkedin.com/in/vitoria alric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vitoria alric" height="30" width="40" /></a>
+<a href="https://cutt.ly/VhmMBss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vitoria alric" height="30" width="40" /></a>
 <a href="https://instagram.com/viih_alric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="viih_alric" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=5511953025442&text=Ol%C3%A1%2C%20Vit%C3%B3ria%20Alric!%20 " title="Acesse de seu smartphone para enviar por WhatsApp"><b>WhatsApp</a></b>
+<a href="https://api.whatsapp.com/send?phone=5511953025442&text=Ol%C3%A1%2C%20Vit%C3%B3ria%20Alric!%20 " title="Acesse de seu smartphone para enviar por WhatsApp"><b>WhatsApp </a></b>
 </p>
 
-  
 <!--
 **VitoriaAlric/VitoriaAlric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

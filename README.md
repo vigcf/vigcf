@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![imggit](https://user-images.githubusercontent.com/73321295/100152672-ce326480-2e81-11eb-97f1-3073d0ec988d.png)
+![imggit](https://i.imgur.com/q0WOznK.jpg)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Languages and Tools:</h3>

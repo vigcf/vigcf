@@ -1,6 +1,6 @@
  ### Olá 👋
 
-  Sou a Vitória Alric, moro em São Paulo e estou estudando para me tornar uma Desenvolvedora Full Stack! 🚀
+  Sou a Vitória Alric, movida pelo amor à tecnologia, a minha trajetória começou como uma autodidata criativa, desde meus primeiros passos nos códigos à montar e desmontar computadores por curiosidade em entender como funcionavam, uma amante da comunicação, da leitura, jogos e fotografias, recentemente participei do Bootcamp da Generation Brasil, onde desenvolvi em equipe uma rede social, utilizando Java, MySQL, SpringBoot, Angular, JavaScript, Bootstrap, CSS entre outros, foi incrivel, me formei uma Desenvolvedora Java Jr Full Stack, atualmente estudo Analise e Desenvolvimento de Sistemas na Faculdade  Impacta e trabalho no Itaú como Desenvolvedora Back-end. 🚀
   
 
 <p>

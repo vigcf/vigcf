@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <p>
 ► Tirar fotinhas da vida 🌳 e editar videos 📷</p>
 <p>
-► Codar 🧡</p>
+► Codar 🧡</p> 

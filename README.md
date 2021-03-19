@@ -7,7 +7,8 @@ Em Fevereiro/2021 finalizei o Bootcamp Full Stack da [Generation Brasil](https:/
 Foi incrível e me formei uma Desenvolvedora Java Jr Full Stack, atualmente estudo Analise e Desenvolvimento de Sistemas na Faculdade  Impacta e trabalho no Itaú como Desenvolvedora Back-end. 🚀
 
 <p>
-<h3> Você pode me encontrar aqui 🌏 </h3>
+<h3> Você pode me encontrar aqui <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="40px">
+<img align="right" width="260px" src="https://media.giphy.com/media/gx54W1mSpeYMg/giphy.gif"> </h3>
 <p/>
 <a href="https://cutt.ly/VhmMBss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vitoria alric" height="30" width="40" /></a>
 <a href="https://instagram.com/viih_alric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="viih_alric" height="30" width="40" /></a>

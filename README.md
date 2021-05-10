@@ -19,7 +19,7 @@ Foi incrível e me formei uma Desenvolvedora Java Jr Full Stack, atualmente estu
 <p>
 ► Ir a shows 🎸</p>
 <p>
-► Brincar com meus 5 gatos😼😺 e 1 cachorra 🐶 rs </p>
+► Brincar com meus 6 gatos😼😺 e 1 cachorra 🐶 rs </p>
 <p>
 ► Tirar fotinhas da vida 🌳 e editar videos 📷</p>
 <p>

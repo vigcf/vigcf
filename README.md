@@ -24,3 +24,5 @@ Foi incrível e me formei uma Desenvolvedora Java Jr Full Stack, atualmente estu
 ► Tirar fotinhas da vida 🌳 e editar videos 📷</p>
 <p>
 ► Codar 🧡</p> 
+
+![Snake animation](https://github.com/VitoriaAlric/VitoriaAlric/blob/output/github-contribution-grid-snake.svg)

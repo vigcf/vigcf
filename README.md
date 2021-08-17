@@ -1,10 +1,10 @@
  ### Olá 👋
 
-  Sou a Vitória Alric, movida pelo amor à tecnologia, a minha trajetória começou como uma autodidata criativa, desde meus primeiros passos nos códigos à montar e desmontar computadores. Uma amante da comunicação, da leitura, jogos e fotografias 😍
+  Sou a Vitória Alric, movida pelo amor à tecnologia, a minha trajetória começou como uma autodidata criativa, desde meus primeiros passos nos códigos à montar e desmontar computadores. Uma amante da comunicação, leitura, jogos e fotografias 😍
   
 Em Fevereiro/2021 finalizei o Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) onde pude contribuir no desenvolvimento de uma [aplicação web](https://recomece.herokuapp.com/#/menu) utilizando Java ☕, SpringBoot 🍃, MySQL 🐬, Angular 🅰️, entre outros. 
 
-Foi incrível e me formei uma Desenvolvedora Java Jr Full Stack, atualmente estudo Analise e Desenvolvimento de Sistemas na Faculdade  Impacta e trabalho no Itaú como Desenvolvedora Back-end. 🚀
+Foi incrível e me formei uma Desenvolvedora Java Jr Full Stack, atualmente estudo Analise e Desenvolvimento de Sistemas na FIAP e trabalho no Itaú como Desenvolvedora Back-end. 🚀
 
 ![imggit](https://i.imgur.com/q0WOznK.jpg)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight)
@@ -19,7 +19,7 @@ Foi incrível e me formei uma Desenvolvedora Java Jr Full Stack, atualmente estu
 <p>
 ► Ir a shows 🎸</p>
 <p>
-► Brincar com meus 6 gatos😼😺 e 1 cachorra 🐶 rs </p>
+► Brincar com meus 7 gatos😼😺 e 1 cachorra 🐶 rs </p>
 <p>
 ► Tirar fotinhas da vida 🌳 e editar videos 📷</p>
 <p>

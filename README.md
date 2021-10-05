@@ -1,6 +1,6 @@
  ### Olá 👋
 
-  Sou a Vitória Alric, movida pelo amor à tecnologia, a minha trajetória começou como uma autodidata criativa, desde meus primeiros passos nos códigos à montar e desmontar computadores. Uma amante da comunicação, leitura, jogos e fotografias 😍
+  Sou a Vitória Gonçalves, movida pelo amor à tecnologia, a minha trajetória começou como uma autodidata criativa, desde meus primeiros passos nos códigos à montar e desmontar computadores. Uma amante da comunicação, leitura, jogos e fotografias 😍
   
 Em Fevereiro/2021 finalizei o Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) onde pude contribuir no desenvolvimento de uma [aplicação web](https://recomece.herokuapp.com/#/menu) utilizando Java ☕, SpringBoot 🍃, MySQL 🐬, Angular 🅰️, entre outros. 
 

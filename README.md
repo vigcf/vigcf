@@ -36,7 +36,7 @@ Foi incrível e me formei uma Desenvolvedora Java Jr Full Stack, atualmente estu
 ► Tirar fotinhas da vida 🌳 e editar videos 📷</p>
 <p>
 ► Codar 🧡</p> 
-<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />
+
 <div>  
   <h4 align="left"> Visitantes </h4>
   <img align="left" src="https://profile-counter.glitch.me/VitoriaAlric/count.svg">

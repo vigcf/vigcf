@@ -7,8 +7,8 @@ Em Fevereiro/2021 finalizei o Bootcamp Full Stack da [Generation Brasil](https:/
 Foi incrível e me formei uma Desenvolvedora Java Jr Full Stack, atualmente estudo Analise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br) e trabalho no Itaú como Desenvolvedora Back-end. 🚀
 
 ![imggit](https://i.imgur.com/q0WOznK.jpg)
-<img height="205em"   align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
- <img height="205em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAlric&&layout=compact&hide=shell&theme=tokyonight">
+<img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+ <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAlric&&layout=compact&hide=shell&theme=tokyonight">
  
    ##
  <div>

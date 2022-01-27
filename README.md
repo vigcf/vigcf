@@ -2,9 +2,7 @@
 
   Sou a Vitória Gonçalves, movida pelo amor à tecnologia, a minha trajetória começou como uma autodidata criativa, desde meus primeiros passos nos códigos à montar e desmontar computadores. Uma amante da comunicação, leitura, jogos e fotografias 😍
   
-Em Fevereiro/2021 finalizei o Bootcamp Full Stack da [Generation Brasil](https://brazil.generation.org) onde pude contribuir no desenvolvimento de uma [aplicação web](https://recomece.herokuapp.com/#/menu) utilizando Java ☕, SpringBoot 🍃, MySQL 🐬, Angular 🅰️, entre outros. 
-
-Foi incrível e me formei uma Desenvolvedora Java Jr Full Stack, atualmente estudo Analise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br) e trabalho no Itaú como Desenvolvedora Back-end. 🚀
+Atualmente estudo Analise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br) e trabalho no Itaú como Desenvolvedora Back-end. 🚀
 
 ![imggit](https://i.imgur.com/q0WOznK.jpg)
 <img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">

@@ -2,7 +2,7 @@
 
  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lauraolpedro" data-version="v1"> Sou a <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vit%C3%B3ria-alric/">Vitória Gonçalves</a>, movida pelo amor à tecnologia, a minha trajetória começou como uma autodidata criativa, desde meus primeiros passos nos códigos à montar e desmontar computadores. Uma amante da comunicação, leitura, jogos, fotografias, inovaçãoes e possibilidades 😍🚀</div>
  
- - 🏢 Engenheira de software Back-end no Itaú
+ - 🏦 Engenheira de software Back-end no Itaú
  - 🚀 Estudando Analise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br)
  - 👩‍💻 Dev Java Jr Full Stack pela [Generation Brasil](https://brazil.generation.org/)
 

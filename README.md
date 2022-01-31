@@ -1,9 +1,11 @@
  ### Olá 👋
 
- <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lauraolpedro" data-version="v1"> Sou a <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vit%C3%B3ria-alric/">Vitória Gonçalves</a>, movida pelo amor à tecnologia, a minha trajetória começou como uma autodidata criativa, desde meus primeiros passos nos códigos à montar e desmontar computadores. Uma amante da comunicação, leitura, jogos e fotografias 😍</div>
-              
-  
-Atualmente estudo Analise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br) e trabalho no Itaú como Desenvolvedora Back-end. 🚀
+ <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lauraolpedro" data-version="v1"> Sou a <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vit%C3%B3ria-alric/">Vitória Gonçalves</a>, movida pelo amor à tecnologia, a minha trajetória começou como uma autodidata criativa, desde meus primeiros passos nos códigos à montar e desmontar computadores. Uma amante da comunicação, leitura, jogos, fotografias, inovaçãoes e possibilidades 😍🚀</div>
+ 
+ - 🏢 Engenheira de software Back-end no Itaú
+ - 🚀 Estudando Analise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br)
+ - 👩‍💻 Dev Java Jr Full Stack pela [Generation Brasil](https://brazil.generation.org/)
+
 
 ![imggit](https://i.imgur.com/q0WOznK.jpg)
 <img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">

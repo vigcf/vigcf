@@ -7,9 +7,7 @@
  - 👩‍💻 Dev Java Jr Full Stack pela [Generation Brasil](https://brazil.generation.org/)
 
 
-![imggit](https://i.imgur.com/q0WOznK.jpg)
-<img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
- <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAlric&&layout=compact&hide=shell&theme=tokyonight">
+<a href="https://imgur.com/nzGCjGo"><img src="https://i.imgur.com/nzGCjGo.gif" title="source: imgur.com" /></a>
  
    ##
  <div>

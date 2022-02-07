@@ -17,7 +17,9 @@
  <a href="https://www.linkedin.com/in/vit%C3%B3ria-alric/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
 <a href="https://api.whatsapp.com/send?phone=5511953025442" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
 <a href="https://discord.gg/Pcf7tMX6" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="30" width="110" /> </a> 
-  </div>
+  </div>]]![imggit](https://i.imgur.com/q0WOznK.jpg)
+<img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+ <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAlric&&layout=compact&hide=shell&theme=tokyonight">
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -19,7 +19,7 @@
 <a href="https://discord.gg/Pcf7tMX6" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="30" width="110" /> </a> 
   </div>
   <div>
-<img height="190em"   align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"><img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAlric&&layout=compact&hide=shell&theme=tokyonight">
+<img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAlric&&layout=compact&hide=shell&theme=tokyonight">
 </div>
 
 

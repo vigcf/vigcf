@@ -19,9 +19,6 @@
 <a href="https://discord.gg/Pcf7tMX6" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="30" width="110" /> </a> 
   </div>
   <div>
-<img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=VitoriaAlric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAlric&&layout=compact&hide=shell&theme=tokyonight">
-</div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -48,7 +45,7 @@
 <p>
 ► Ir a shows 🎸</p>
 <p>
-► Brincar com meus 7 gatos😼😺 e 1 cachorra 🐶 rs </p>
+► Brincar com meus 7 gatos😼😺 e 2 cachorras 🐶 rs </p>
 <p>
 ► Tirar fotinhas da vida 🌳 e editar videos 📷</p>
 <p>
